@@ -6,3 +6,4 @@
 
 ## Data
 - Get the data by running `wget https://s3-eu-west-1.amazonaws.com/tractable-interview-test/tractable_exercise_data.zip`
+- Enter `tractable_ds_exercise_data/metadata` and use `gunzip *` to unpack the files
